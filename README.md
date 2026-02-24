@@ -1,2 +1,2 @@
-# Groupn-assignement
+# Class activity
 Work needed to be done
